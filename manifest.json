@@ -9,10 +9,15 @@
     "48": "icons/icon.png"
   },
 
-  "applications": {
-    "gecko": {
-      "id": "@gglappbtn",
-      "strict_min_version": "80.0"
+  "browser_specific_settings": 
+  {
+    "gecko": 
+    {
+      "id": "@gglappbtn-fork",
+	    "data_collection_permissions": 
+              {
+                "required": ["none"]
+              }
     }
   },
 
