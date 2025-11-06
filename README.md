@@ -4,7 +4,6 @@ Simple access to Google Applications with a tool bar button.
 This fork adds some minimal updates as the original project seems abandoned.
 
 
-> [Get on AMO](TBD)
 
 Currently has links to popular Google applications in a 3x3 grid. There is some customization support to pick the 9 apps and the order.
 
