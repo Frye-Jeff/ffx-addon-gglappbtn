@@ -3,7 +3,7 @@
 // -------------------------------------------------
 //
 // Note: When new apps are added, this should be the only file that needs to be
-//       modified
+//       modified. The first 9 listed are the default apps.
 //
 var gapps_info = {
   "gmail": {
@@ -26,10 +26,10 @@ var gapps_info = {
     "desc" : "Drive",
     "iconpos" : "0px -1380px"
   },
-  "gnews": {
-    "url" : "https://news.google.com/",
-    "desc" : "News",
-    "iconpos" : "0px -414px"
+"gemini": {
+    "url" : "https://gemini.google.com/",
+    "desc" : "Gemini",
+    "iconpos" : "0px -2346px"
   },
   "gdoc": {
     "url" : "https://docs.google.com/",
@@ -46,16 +46,16 @@ var gapps_info = {
     "desc" : "Maps",
     "iconpos" : "0px -138px"
   },
-  "gmeet": {
-    "url" : "https://meet.google.com/",
-    "desc" : "Meet",
-    "iconpos" : "0px -2002px"
+  "gkeep": {
+    "url" : "https://keep.google.com/",
+    "desc" : "Keep",
+    "iconpos" : "0px -897px"
   },
-  "gpod": {
-    "url" : "https://podcasts.google.com/",
-    "desc" : "Podcasts",
-    "iconpos" : "0px -1312px"
-  },
+//  "gpod": {
+//    "url" : "https://podcasts.google.com/",
+//    "desc" : "Podcasts",
+//    "iconpos" : "0px -1312px"
+//  },
   "gplay": {
     "url" : "https://play.google.com/",
     "desc" : "Play",
@@ -71,16 +71,16 @@ var gapps_info = {
     "desc" : "Messages",
     "iconpos" : "0px -3030px"
   },
-  "gemini": {
-    "url" : "https://gemini.google.com/",
-    "desc" : "Gemini",
-    "iconpos" : "0px -2346px"
+  "gnews": {
+    "url" : "https://news.google.com/",
+    "desc" : "News",
+    "iconpos" : "0px -414px"
   },
-  "ghang": {
-    "url" : "https://hangouts.google.com/",
-    "desc" : "Hangouts",
-    "iconpos" : "0px -1793px"
-  },
+//  "ghang": {
+//    "url" : "https://hangouts.google.com/",
+//    "desc" : "Hangouts",
+//    "iconpos" : "0px -1793px"
+//  },
   "gcont": {
     "url" : "https://contacts.google.com/",
     "desc" : "Contacts",
@@ -91,10 +91,10 @@ var gapps_info = {
     "desc" : "Translate",
     "iconpos" : "0px -828px"
   },
-  "gkeep": {
-    "url" : "https://keep.google.com/",
-    "desc" : "Keep",
-    "iconpos" : "0px -897px"
+    "gmeet": {
+    "url" : "https://meet.google.com/",
+    "desc" : "Meet",
+    "iconpos" : "0px -2002px"
   },
   "gmusic": {
     "url" : "https://music.youtube.com/",
